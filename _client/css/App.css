@@ -1,0 +1,10 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: #212733;
+    color: #ccc9c2;
+    padding-left: 50px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}

@@ -1,0 +1,32 @@
+
+1. React Crash Course 2018 w/ Examples by Mosh:
+    https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+2. Great Redux tutorials by thenewboston:
+    https://www.youtube.com/watch?v=DiLVAXlVYR0&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
+
+3. Great Redux starter course by Traversy Media:
+    https://www.youtube.com/watch?v=93p3LxR9xfM
+
+4. Express Crash Course by Traversy Media:
+    https://www.youtube.com/watch?v=gnsO8-xJ8rs
+
+5. Node.js & Express w/ Examples by Traversy Media:
+    https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp
+
+6. Mongoose Tutorials (Test Driven Development - Mocha testing):
+    https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u
+
+7. MongoDB tutorial with Node, Express and Mongoose (no tests in this one, more focused)
+    https://www.youtube.com/watch?v=4yqu8YF29cU
+
+8. Learn the MERN stack by Traversy Media:
+    https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
+
+9. Fullstack Javascript Course:
+    https://www.youtube.com/watch?v=2veG35yo7bo&list=PLndrmkbqEI8WrbdSUmxu0mxOB8ohahLrZ
+
+10.How to setup your own development environment (sadly a bit outdated and not complete, still great):
+    https://www.youtube.com/watch?v=QA29Qvr9rdw
+    https://www.youtube.com/watch?v=kHxZot6efE8
+    https://www.youtube.com/watch?v=gkeEVojcDv8
