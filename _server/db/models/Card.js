@@ -10,12 +10,14 @@ const CardSchema = new Schema({
 	type: { type: String, required: true },
 	effect: {
 		attack: { type: Number, default: 0 },
+		range: { type: Number, default: 0 },
 		defense: { type: Number, default: 0 },
 		magicDefense: { type: Number, default: 0 },
 		health: { type: Number, default: 0 },
 		size: { type: Number, default: 0 }
 	},
-	monster: { type: Schema.Types.ObjectId }
+	monster: { type: Schema.Types.ObjectId },
+	imgPath: { type: String, required: true }
 });
 
 module.exports = mongoose.model("Card", CardSchema);
