@@ -6,8 +6,8 @@ mongoose.connect(
     dbUrl,
     { useNewUrlParser: true }
 );
-mongoose.connection.once("open", () => {
-    console.log("Connection to mongoDB succesful.");
+mongoose.connection.once("open", err => {
+    err ? console.log("Error connecting: ", err) : console.log("Connection to mongoDB succesful.");
 });
 mongoose.connection.on("error", console.log);
 

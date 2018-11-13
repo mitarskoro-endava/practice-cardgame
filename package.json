@@ -1,8 +1,8 @@
 {
-    "name": "mern-development-environment",
+    "name": "practice-cardgame",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "server.js",
     "scripts": {
         "test": "mocha",
         "build": "webpack --mode production",
