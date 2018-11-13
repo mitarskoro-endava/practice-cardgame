@@ -3,11 +3,13 @@ const dbUrl = require("../../config").dbUrl;
 
 //Connect to mongodb
 mongoose.connect(
-    dbUrl,
-    { useNewUrlParser: true }
+	dbUrl,
+	{ useNewUrlParser: true, useFindAndModify: false }
 );
 mongoose.connection.once("open", err => {
-    err ? console.log("Error connecting: ", err) : console.log("Connection to mongoDB succesful.");
+	err
+		? console.log("Error connecting: ", err)
+		: console.log("Connection to mongoDB succesful.");
 });
 mongoose.connection.on("error", console.log);
 
